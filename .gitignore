@@ -1,0 +1,5 @@
+venv/
+proyecto_ejemplo/venv/
+__pycache__/
+files/
+archivos.ipynb
